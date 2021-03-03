@@ -14,9 +14,9 @@ public class GitDemo {
      * This function should add 'num' to 'previousNumber' and return the sum.
     *****/
     public double addNumber(double num) {
-        int sum = 0;
+        double sum = 0;
         System.out.print("Add num to previousNumber");
-        sum = previousnumber + num;
+        sum = previousNumber + num;
         return sum;
     }
     
