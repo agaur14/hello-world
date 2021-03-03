@@ -27,7 +27,7 @@ public class GitDemo {
      *****/
     public double findFactorial(int num) {
         double newNumber = 1;
-        reverseNum = newNumber
+        reverseNum = newNumber;
         for(int i = 1; i <= num; ++i){
             newNumber = newNumber * i;
         }
